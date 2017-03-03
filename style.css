@@ -148,8 +148,3 @@ p.credits{	color:#999;}
 	height:30px;
 	border-top:1px #ddd solid;	
 }
-iframe#tumblr_controls {
-    top: 0% !important;
-    right:0% !important; 
-    display:none !important;
-}
